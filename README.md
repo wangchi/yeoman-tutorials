@@ -1,13 +1,8 @@
-# Yeoman学习指南中文版
+# [Yeoman学习指南中文版](https://github.com/wangchi/yeoman-tutorials)
 
+> 在线GitBook地址：[https://wangchi.gitbooks.io/yeoman-tutorials/content/](https://wangchi.gitbooks.io/yeoman-tutorials/content/)
+> 英文原文：[http://yeoman.io/learning/](http://yeoman.io/learning/)
 
-原文作者: Addy Osmani, James Cryer, Pearl Chen
-
-翻译: @WalkerBe [http://www.walkerbe.com/](http://www.walkerbe.com/)
-
-官方原文: [http://yeoman.io/codelab.html](http://yeoman.io/codelab.html)
-
-GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www.gitbook.com/read/book/wangchi/yeomantutorials)
 
 ## 摘要
 
@@ -40,5 +35,8 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + 012-恭喜你学完了! 下一步该怎么做呢？
 
+原文作者: Addy Osmani, James Cryer, Pearl Chen
+
+翻译: Wang Chi [https://github.com/wangchi/](https://github.com/wangchi/)
 
 MIT
