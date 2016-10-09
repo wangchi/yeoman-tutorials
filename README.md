@@ -1,6 +1,7 @@
 # [Yeoman学习指南中文版](https://github.com/wangchi/yeoman-tutorials)
 
 > 在线GitBook地址：[https://wangchi.gitbooks.io/yeoman-tutorials/content/](https://wangchi.gitbooks.io/yeoman-tutorials/content/)
+> 
 > 英文原文：[http://yeoman.io/learning/](http://yeoman.io/learning/)
 
 
